@@ -2,6 +2,7 @@
 jupyterlite-core==0.5.0
 jupyterlab~=4.3.4
 notebook~=7.3.2
+nbformat~=5.10.4
 
 
 # Python kernel (optional)
@@ -39,6 +40,8 @@ ipympl>=0.8.2
 ipycanvas>=0.9.1
 # Python: ipyleaflet library for Jupyter notebooks (optional)
 ipyleaflet
+
+nbformat>=4.2.0
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
